@@ -1,0 +1,23 @@
+[
+  {
+    "product_code": 1001,
+    "name": "soy sauce",
+    "stock_on_hand": 100,
+    "price": 15,
+    "description": "n/a"
+  },
+  {
+    "product_code": 1002,
+    "name": "vinegar",
+    "stock_on_hand": 100,
+    "price": 15,
+    "description": "n/a"
+  },
+  {
+    "product_code": 1003,
+    "name": "tootpaste",
+    "stock_on_hand": 100,
+    "price": 15,
+    "description": "n/a"
+  }
+]

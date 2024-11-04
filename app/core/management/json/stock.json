@@ -1,0 +1,30 @@
+[
+  {
+    "first_name": "Jimuel",
+    "last_name": "Tomas",
+    "stock_holder": "Leo Go",
+    "invested": 100,
+    "stock_value": 50
+  },
+  {
+    "first_name": "Jao",
+    "last_name": "Bandin",
+    "stock_holder": "Leo Go",
+    "invested": 300,
+    "stock_value": 20
+  },
+  {
+    "first_name": "Jimuel",
+    "last_name": "Tomas",
+    "stock_holder": "John Doe",
+    "invested": 150,
+    "stock_value": 50
+  },
+  {
+    "first_name": "Jao",
+    "last_name": "Bandin",
+    "stock_holder": "Leo Go",
+    "invested": 70,
+    "stock_value": 10
+  }
+]
